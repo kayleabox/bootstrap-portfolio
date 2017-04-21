@@ -126,12 +126,12 @@ nav a{
 	width: 45px;
 }
 
-/*.navigationBar{
-	background-color: white;
-	color: #dddddd;
+.navigationBar{
+	/*background-color: white;
+	color: #dddddd;*/
 	float: right;
 
-}*/
+}
 
 /*index stuff*/
 #mePic{
