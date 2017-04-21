@@ -8,6 +8,13 @@
 	}
 }
 
+@media only screen and (min-width: 750px) {
+	nav{
+		float:right;
+	}
+}
+
+
 
 body{
 	/*width:960px;*//*this was the assignment but I wanted 
